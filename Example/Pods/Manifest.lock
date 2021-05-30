@@ -1,0 +1,16 @@
+PODS:
+  - MinhMonHello (1.0.0)
+
+DEPENDENCIES:
+  - MinhMonHello (from `../MinhMonHello`)
+
+EXTERNAL SOURCES:
+  MinhMonHello:
+    :path: "../MinhMonHello"
+
+SPEC CHECKSUMS:
+  MinhMonHello: 9779eba1ad15b6d7dfdfe2b08e520ba508294c89
+
+PODFILE CHECKSUM: 9e1862593dd4df1669b594a7cc8986d55cc7767a
+
+COCOAPODS: 1.10.1
